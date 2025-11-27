@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:           </h3>
-<h3>Register Number            </h3>
+<h3>Name: Sanjana Sri N   </h3>
+<h3>Register Number  : 2305003007  </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -13,7 +13,7 @@ The Wumpus world is a simple world example to illustrate the worth of a knowledg
 
 The figure below shows a Wumpus world containing one pit and one Wumpus. There is an agent in room [1,1]. The goal of the agent is to exit the Wumpus world alive. The agent can exit the Wumpus world by reaching room [4,4]. The wumpus world contains exactly one Wumpus and one pit. There will be a breeze in the rooms adjacent to the pit, and there will be a stench in the rooms adjacent to Wumpus.
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/cd6b68dc-c79f-4dcb-8126-04da90d65912)
+<img width="664" height="496" alt="image" src="https://github.com/user-attachments/assets/bb6d72a2-5a5c-4e8f-968b-3e370666feab" />
 
 <center>Wumpus World Representation</center>
 <p>
@@ -140,12 +140,15 @@ while(player):
 <h1>Sample Input and Output:</h1>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+<img width="797" height="756" alt="image" src="https://github.com/user-attachments/assets/5f41678f-fa84-4146-bfed-3535cc61f351" />
+<img width="921" height="630" alt="image" src="https://github.com/user-attachments/assets/ce8825cb-108b-46b2-bc59-09cd78306982" />
+
+
 
 ## OUTPUT
 
-![439499566-74590332-6d8c-4623-92f1-08397aa1e854](https://github.com/user-attachments/assets/fb981510-0c4c-4e9c-b7c5-9dcbf9863e50)
+<img width="827" height="618" alt="image" src="https://github.com/user-attachments/assets/6a0c2148-f648-4c5d-a061-3d0b8f87fc92" />
+
 
 ## RESULT
 
