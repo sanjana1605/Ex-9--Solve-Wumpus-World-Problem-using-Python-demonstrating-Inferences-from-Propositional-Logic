@@ -147,7 +147,7 @@ while(player):
 
 ## OUTPUT
 
-<img width="827" height="618" alt="image" src="https://github.com/user-attachments/assets/6a0c2148-f648-4c5d-a061-3d0b8f87fc92" />
+<img width="797" height="866" alt="image" src="https://github.com/user-attachments/assets/c695a819-3f10-4a6c-b246-957fb2ef3570" />
 
 
 ## RESULT
